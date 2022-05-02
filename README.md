@@ -64,7 +64,7 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 666.67px;">![](images/image11.png)</span>
 
-<span class="c5">Figura 1\.</span> <span class="c9">Flujo de Trabajo. Fuente propia.</span>
+<span class="c5">*Figura 1*.</span> <span class="c9">Flujo de Trabajo. Fuente propia.</span>
 
 <span class="c1"></span>
 
@@ -143,11 +143,11 @@
 
 <span>        </span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 349.00px; height: 214.00px;">![](images/image7.png)</span>
 
-<span>        </span><span class="c5">Figura 2\.</span> <span class="c18">Muestra de información de los niños a analizar. Fuente propia.</span>
+<span>        </span><span class="c5">*Figura 2*.</span> <span class="c18">Muestra de información de los niños a analizar. Fuente propia.</span>
 
 <span>        </span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 188.00px; height: 315.00px;">![](images/image17.png)</span>
 
-<span class="c5">Figura 3\.</span> <span class="c9">Descripción de las variables cuantitativas de los niños a analizar. Fuente propia.</span>
+<span class="c5">*Figura 3*.</span> <span class="c9">Descripción de las variables cuantitativas de los niños a analizar. Fuente propia.</span>
 
 <span class="c1"></span>
 
@@ -161,7 +161,7 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 400.00px; height: 212.00px;">![](images/image4.png)</span>
 
-<span class="c5">Figura 4\.</span> <span class="c18">Muestra de información de los abuelos a analizar. Fuente propia.</span>
+<span class="c5">*Figura 4*.</span> <span class="c18">Muestra de información de los abuelos a analizar. Fuente propia.</span>
 
 <span class="c2"></span>
 
@@ -169,7 +169,7 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 184.00px; height: 311.00px;">![](images/image3.png)</span>
 
-<span class="c5">Figura 5\.</span> <span class="c9">Descripción de las variables cuantitativas de los abuelos a analizar. Fuente propia.</span>
+<span class="c5">*Figura 5*.</span> <span class="c9">Descripción de las variables cuantitativas de los abuelos a analizar. Fuente propia.</span>
 
 <span class="c1"></span>
 
@@ -187,7 +187,7 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 510.00px; height: 470.00px;">![](images/image1.png)</span>
 
-<span class="c5">Figura 6\.</span> <span class="c9">Gráfico de barras comparativo de niños y abuelos por sexo. Fuente propia.</span>
+<span class="c5">*Figura 6*.</span> <span class="c9">Gráfico de barras comparativo de niños y abuelos por sexo. Fuente propia.</span>
 
 <span class="c1"></span>
 
@@ -207,7 +207,7 @@
 
 <span class="c16">        </span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 463.00px; height: 436.00px;">![](images/image6.png)</span>
 
-<span class="c5">Figura 7\.</span> <span class="c9">Gráfico de barras de las edades de los niños. Fuente propia.</span>
+<span class="c5">*Figura 7*.</span> <span class="c9">Gráfico de barras de las edades de los niños. Fuente propia.</span>
 
 <span class="c1"></span>
 
@@ -221,13 +221,13 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 144.00px; height: 191.00px;">![](images/image12.png)</span>
 
-<span class="c5">Figura 8\.</span> <span class="c9">Tabla de las edades de los niños. Fuente propia.</span>
+<span class="c5">*Figura 8*.</span> <span class="c9">Tabla de las edades de los niños. Fuente propia.</span>
 
 <span class="c1"></span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 503.00px; height: 482.00px;">![](images/image16.png)</span>
 
-<span class="c5">Figura 9\.</span> <span class="c18">Gráfico de dispersión de las edades de los abuelos. Fuente propia.</span>
+<span class="c5">*Figura 9*.</span> <span class="c18">Gráfico de dispersión de las edades de los abuelos. Fuente propia.</span>
 
 <span class="c1"></span>
 
@@ -243,7 +243,7 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 463.00px; height: 742.00px;">![](images/image9.jpg)</span>
 
-<span class="c5">Figura 10\.</span> <span class="c18">Gráfico de barras comparativo de las etnias y culturas de los abuelos y niños. Fuente propia.</span>
+<span class="c5">*Figura 10*.</span> <span class="c18">Gráfico de barras comparativo de las etnias y culturas de los abuelos y niños. Fuente propia.</span>
 
 <span class="c1"></span>
 
@@ -267,13 +267,13 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 293.00px; height: 196.00px;">![](images/image15.png)</span>
 
-<span class="c5">Figura 11\.</span> <span class="c9">Muestra de información de los hogares de los niños a analizar. Fuente propia.</span>
+<span class="c5">*Figura 11*.</span> <span class="c9">Muestra de información de los hogares de los niños a analizar. Fuente propia.</span>
 
 <span class="c9"></span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 344.00px; height: 162.00px;">![](images/image14.png)</span>
 
-<span class="c5">Figura 12\.</span> <span class="c9">Descripción de las variables cualitativas de los hogares de los niños a analizar. Fuente propia.</span>
+<span class="c5">*Figura 12*.</span> <span class="c9">Descripción de las variables cualitativas de los hogares de los niños a analizar. Fuente propia.</span>
 
 <span class="c9"></span>
 
@@ -283,11 +283,11 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 353.00px; height: 194.00px;">![](images/image13.png)</span>
 
-<span class="c5">Figura 13\.</span> <span class="c18">Muestra de información de los hogares de los abuelos a analizar. Fuente propia.</span>
+<span class="c5">*Figura 13*.</span> <span class="c18">Muestra de información de los hogares de los abuelos a analizar. Fuente propia.</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 391.00px; height: 168.00px;">![](images/image8.png)</span>
 
-<span class="c5">Figura 14\.</span> <span class="c9">Descripción de las variables cualitativas de los hogares de los abuelos a analizar. Fuente propia.</span>
+<span class="c5">*Figura 14*.</span> <span class="c9">Descripción de las variables cualitativas de los hogares de los abuelos a analizar. Fuente propia.</span>
 
 <span class="c1"></span>
 
@@ -305,7 +305,7 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 556.00px;">![](images/image5.jpg)</span>
 
-<span class="c5">Figura 15\.</span> <span class="c18">Gráfico de barras comparativo de niños y abuelos por sentimiento de seguridad.</span><span class="c18"> Fuente propia.</span>
+<span class="c5">*Figura 15*.</span> <span class="c18">Gráfico de barras comparativo de niños y abuelos por sentimiento de seguridad.</span><span class="c18"> Fuente propia.</span>
 
 <span class="c2"></span>
 
@@ -325,7 +325,7 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 544.00px;">![](images/image10.jpg)</span>
 
-<span class="c5">Figura 16\.</span> <span class="c18">Gráfico de barras comparativo de niños y abuelos por sentimiento de pobreza. Fuente propia.</span>
+<span class="c5">*Figura 16*.</span> <span class="c18">Gráfico de barras comparativo de niños y abuelos por sentimiento de pobreza. Fuente propia.</span>
 
 <span class="c2"></span>
 
@@ -343,7 +343,7 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 544.00px;">![](images/image2.jpg)</span>
 
-<span class="c5">Figura 17\.</span> <span class="c9">Gráfico de barras comparativo de niños y abuelos por tenencia de internet. Fuente propia.</span>
+<span class="c5">*Figura 17*.</span> <span class="c9">Gráfico de barras comparativo de niños y abuelos por tenencia de internet. Fuente propia.</span>
 
 <span class="c9"></span>
 
