@@ -32,11 +32,10 @@
 
 <span class="c1"></span>
 
-*   <span class="c1">Realización de dos modelos de regresión lineal múltiple, uno para predecir el nivel de satisfacción de niños y otro el de los abuelos siguiendo el método posterior:</span>
-
-*   <span class="c1">Análisis exploratorio de datos evaluando una gran cantidad de características sin hipótesis pre-especificadas para identificar y seleccionar las características que sirvan como variables predictivas.</span>
-*   <span class="c1">Ingeniería de características para construir variables predictivas del modelo.</span>
-*   <span>Modelo de regresión lineal múltiple realizado con las variables predictivas.</span><span class="c25"> </span>
+- <span class="c1">Realización de dos modelos de regresión lineal múltiple, uno para predecir el nivel de satisfacción de niños y otro el de los abuelos siguiendo el método posterior:</span>
+  -   <span class="c1">Análisis exploratorio de datos evaluando una gran cantidad de características sin hipótesis pre-especificadas para identificar y seleccionar las características que sirvan como variables predictivas.</span>
+  -   <span class="c1">Ingeniería de características para construir variables predictivas del modelo.</span>
+  -   <span>Modelo de regresión lineal múltiple realizado con las variables predictivas.</span><span class="c25"> </span>
 
 <span class="c20 c25 c28"></span>
 
@@ -51,8 +50,6 @@
 <span class="c1"></span>
 
 ## <span class="c4">Definiciones</span>
-
-<span class="c4">        </span>
 
 *   <span class="c1">Abuelo: para este trabajo se define como abuelo a la persona que es cabeza de hogar y tiene nietos, y su pareja, además de sus padres y suegros en caso de que viva con sus hijos. También es un abuelo la persona que es el padre o madre de la persona cabeza de hogar y esta persona tiene hijos, además que los suegros de esta persona son abuelos.</span>
 *   <span class="c1">Niño: para este trabajo se define como niño a toda persona que tiene entre 15 y 18 años de edad.</span>
@@ -115,13 +112,10 @@
 
 <span class="c1">Para los registros de los abuelos y niños:</span>
 
-*   <span class="c1">Subconjuntos de datos o agregación:</span>
-
-*   <span class="c1">Selección de los sujetos a partir de la definición de abuelo o niño presentada.</span>
-
-*   <span class="c1">Transformación de datos:</span>
-
-*   <span class="c1">Conversión del tipo de datos de objetos a enteros.</span>
+* <span class="c1">Subconjuntos de datos o agregación:</span>
+  * <span class="c1">Selección de los sujetos a partir de la definición de abuelo o niño presentada.</span>
+* <span class="c1">Transformación de datos:</span>
+  * <span class="c1">Conversión del tipo de datos de objetos a enteros.</span>
 
 <span class="c1"></span>
 
@@ -408,15 +402,13 @@
 
 <span class="c1"></span>
 
-  <span class="c1">Modelos para niños y abuelos:</span>
+* <span class="c1">Modelos para niños y abuelos:</span>
+  * <span class="c22">[código fuente en Google Colab](https://www.google.com/url?q=https://colab.research.google.com/drive/16ONg9wMgshDy7LWFBoMfQunBwa7dj6cN?usp%3Dsharing&sa=D&source=editors&ust=1651468799402566&usg=AOvVaw0tWC-t0il-rrEOolSu0QME)</span>
+  * <span class="c22">[código fuente en Github](https://www.google.com/url?q=https://github.com/CloaizaF/Trabajo_TAE_1&sa=D&source=editors&ust=1651468799402863&usg=AOvVaw31tac89dtWBVZVogcProDa)</span>
 
-*   <span class="c22">[código fuente en Google Colab](https://www.google.com/url?q=https://colab.research.google.com/drive/16ONg9wMgshDy7LWFBoMfQunBwa7dj6cN?usp%3Dsharing&sa=D&source=editors&ust=1651468799402566&usg=AOvVaw0tWC-t0il-rrEOolSu0QME)</span>
-*   <span class="c22">[código fuente en Github](https://www.google.com/url?q=https://github.com/CloaizaF/Trabajo_TAE_1&sa=D&source=editors&ust=1651468799402863&usg=AOvVaw31tac89dtWBVZVogcProDa)</span>
-
-<span class="c1">Modelos para niños y abuelos en producción:</span>
-
-*   <span class="c22">[back end](https://www.google.com/url?q=https://github.com/jumarinr/satisfaccion_model&sa=D&source=editors&ust=1651468799403202&usg=AOvVaw3pevcbDMtaaZVaWmw5dmLJ)</span>
-*   <span class="c22">[front end](https://www.google.com/url?q=https://github.com/jumarinr/prediction-satisfaction&sa=D&source=editors&ust=1651468799403461&usg=AOvVaw3QCVXGL6IQglMXrpFoWwiZ)</span>
+* <span class="c1">Modelos para niños y abuelos en producción:</span>
+  * <span class="c22">[back end](https://www.google.com/url?q=https://github.com/jumarinr/satisfaccion_model&sa=D&source=editors&ust=1651468799403202&usg=AOvVaw3pevcbDMtaaZVaWmw5dmLJ)</span>
+  * <span class="c22">[front end](https://www.google.com/url?q=https://github.com/jumarinr/prediction-satisfaction&sa=D&source=editors&ust=1651468799403461&usg=AOvVaw3QCVXGL6IQglMXrpFoWwiZ)</span>
 
 <span class="c4"></span>
 
