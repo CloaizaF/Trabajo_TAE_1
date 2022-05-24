@@ -424,7 +424,7 @@
 
 <span class="c4"></span>
 
-*   <span class="c22">[Link a la aplicación web](https://www.google.com/url?q=https://prediction-satisfaction.herokuapp.com/&sa=D&source=editors&ust=1651468799403947&usg=AOvVaw0PChPHa0Ek07fy4ydWjeIk)</span>
+*   <span class="c22">[Link a la aplicación web](https://trabajos-tae.herokuapp.com/trabajo-1)</span>
 
 <span class="c1"></span>
 
